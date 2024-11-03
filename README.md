@@ -19,6 +19,8 @@
 
 [Conclution](#conclution)
 
+[License](#license)
+
 ### project overview
 To analyze employee data to uncover trends and insights related to attrition, satisfaction, and performance. The project aims to help HR teams make data-driven decisions to improve employee retention and optimize workforce strategies.
 
@@ -94,5 +96,6 @@ This insight is critical for identifying departments that may need targeted rete
  ### conclution
  The dashboard provides a clear view of key HR metrics related to attrition, demographics, and department-specific issues. To reduce overall attrition, it is important to focus on departments with high turnover, address gender disparities, and understand trends related to educational background. Implementing targeted initiatives based on these insights will help improve retention and foster a more stable workforce.
 
-
+### license
+Apache lincense 2.0
 
